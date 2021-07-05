@@ -39,7 +39,7 @@ Welcome()
 
 if (d==1 and t==9) :
     speak("Its 9'o clock")
-    webbrowser.open("https://zoom.us/j/94051714670?pwd=STU5U2lrdFBWVGJhZG1iN0FOQTB2dz09")
+    webbrowser.open("Your Class Link Here")
 elif (d==1 and t==10): 
     speak("Its 10'o Clock")
     webbrowser.open("Your Class Link Here")
@@ -48,14 +48,14 @@ elif (d==1 and t==11):
     webbrowser.open("Your Class Link Here")
 elif (d==1 and t==12):
     speak("Its 12'o clock")
-    webbrowser.open("https://zoom.us/j/97479787188?pwd=RnN0RkJhVW5qVmlrWTdJdmRpUVFaZz09")
+    webbrowser.open("Your Class Link Here")
 elif (d==1 and t==13):
     speak("its 1'o clock ")
     webbrowser.open("Your Class Link Here")
     
 elif (d==3 and t==9) : 
     speak("Its 9'o clock")
-    webbrowser.open("https://zoom.us/j/94051714670?pwd=STU5U2lrdFBWVGJhZG1iN0FOQTB2dz09")
+    webbrowser.open("Your Class Link Here")
 elif (d==3 and t==10): 
     speak("Its 10'o Clock")
     webbrowser.open("Your Class Link Here")
@@ -64,14 +64,14 @@ elif (d==3 and t==11):
     webbrowser.open("Your Class Link Here")
 elif (d==3 and t==12):
     speak("Its 12'o clock")
-    webbrowser.open("https://zoom.us/j/97479787188?pwd=RnN0RkJhVW5qVmlrWTdJdmRpUVFaZz09")
+    webbrowser.open("Your Class Link Here")
 elif (d==3 and t==13):
     speak("its 1'o clock ")
     webbrowser.open("Your Class Link Here")
 
 elif (d==5 and t==9) : 
     speak("Its 9'o clock")
-    webbrowser.open("https://zoom.us/j/94051714670?pwd=STU5U2lrdFBWVGJhZG1iN0FOQTB2dz09")
+    webbrowser.open("Your Class Link Here")
 elif (d==5 and t==10): 
     speak("Its 10'o Clock")
     webbrowser.open("Your Class Link Here")
@@ -80,7 +80,7 @@ elif (d==5 and t==11):
     webbrowser.open("Your Class Link Here")
 elif (d==5 and t==12):
     speak("Its 12'o clock")
-    webbrowser.open("https://zoom.us/j/97479787188?pwd=RnN0RkJhVW5qVmlrWTdJdmRpUVFaZz09")
+    webbrowser.open("Your Class Link Here")
 elif (d==5 and t==13):
     speak("its 1'o clock ")
     webbrowser.open("Your Class Link Here")
@@ -96,7 +96,7 @@ elif (d==2 and t==11):
     webbrowser.open("Your Class Link Here")
 elif (d==2 and t==12):
     speak("Its 12'o clock")
-    webbrowser.open("https://zoom.us/j/97479787188?pwd=RnN0RkJhVW5qVmlrWTdJdmRpUVFaZz09")
+    webbrowser.open("Your Class Link Here")
 elif (d==2  and t==13):
     speak("its 1'o clock ")
     webbrowser.open("Your Class Link Here")
@@ -112,7 +112,7 @@ elif (d==4 and t==11):
     webbrowser.open("Your Class Link Here")
 elif (d==4 and t==12):
     speak("Its 12'o clock")
-    webbrowser.open("https://zoom.us/j/97479787188?pwd=RnN0RkJhVW5qVmlrWTdJdmRpUVFaZz09")
+    webbrowser.open("Your Class Link Here")
 elif (d==4  and t==13):
     speak("its 1'o clock ")
     webbrowser.open("Your Class Link Here")
@@ -128,7 +128,7 @@ elif (d==6 and t==11):
     webbrowser.open("Your Class Link Here")
 elif (d==6 and t==12):
     speak("Its 12'o clock")
-    webbrowser.open("https://zoom.us/j/97479787188?pwd=RnN0RkJhVW5qVmlrWTdJdmRpUVFaZz09")
+    webbrowser.open("Your Class Link Here")
 elif (d==6  and t==13):
     speak("its 1'o clock ")
     webbrowser.open("Your Class Link Here")
