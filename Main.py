@@ -37,103 +37,110 @@ def Welcome():
 print(d,t)
 Welcome()
 
-if (d==1 and t==9) :
+def bot():
+ if (d==1 and t==9) :
     speak("Its 9'o clock")
-    webbrowser.open("Your Class Link Here")
-elif (d==1 and t==10): 
+    webbrowser.open("https://zoom.us/j/94051714670?pwd=STU5U2lrdFBWVGJhZG1iN0FOQTB2dz09")
+ elif (d==1 and t==10): 
     speak("Its 10'o Clock")
-    webbrowser.open("Your Class Link Here")
-elif (d==1 and t==11):
+    webbrowser.open("https://meet.google.com/gjh-byqg-acg?pli=1&authuser=1")
+ elif (d==1 and t==11):
     speak("Its 11'o Clock")
     webbrowser.open("Your Class Link Here")
-elif (d==1 and t==12):
+ elif (d==1 and t==12):
     speak("Its 12'o clock")
-    webbrowser.open("Your Class Link Here")
-elif (d==1 and t==13):
+    webbrowser.open("https://zoom.us/j/97479787188?pwd=RnN0RkJhVW5qVmlrWTdJdmRpUVFaZz09")
+ elif (d==1 and t==13):
     speak("its 1'o clock ")
     webbrowser.open("Your Class Link Here")
-    
-elif (d==3 and t==9) : 
+     
+ elif (d==3 and t==9) : 
     speak("Its 9'o clock")
-    webbrowser.open("Your Class Link Here")
-elif (d==3 and t==10): 
+    webbrowser.open("https://zoom.us/j/94051714670?pwd=STU5U2lrdFBWVGJhZG1iN0FOQTB2dz09")
+ elif (d==3 and t==10): 
     speak("Its 10'o Clock")
     webbrowser.open("Your Class Link Here")
-elif (d==3 and t==11):
+ elif (d==3 and t==11):
     speak("Its 11'o Clock")
     webbrowser.open("Your Class Link Here")
-elif (d==3 and t==12):
+ elif (d==3 and t==12):
     speak("Its 12'o clock")
-    webbrowser.open("Your Class Link Here")
-elif (d==3 and t==13):
-    speak("its 1'o clock ")
-    webbrowser.open("Your Class Link Here")
-
-elif (d==5 and t==9) : 
-    speak("Its 9'o clock")
-    webbrowser.open("Your Class Link Here")
-elif (d==5 and t==10): 
-    speak("Its 10'o Clock")
-    webbrowser.open("Your Class Link Here")
-elif (d==5 and t==11):
-    speak("Its 11'o Clock")
-    webbrowser.open("Your Class Link Here")
-elif (d==5 and t==12):
-    speak("Its 12'o clock")
-    webbrowser.open("Your Class Link Here")
-elif (d==5 and t==13):
-    speak("its 1'o clock ")
-    webbrowser.open("Your Class Link Here")
-    
-elif(d==2and t==9) :
-    speak("Its 9'o clock")
-    webbrowser.open("Your Class Link Here")
-elif(d==2 and t==10): 
-    speak("Its 10'o Clock")
-    webbrowser.open("Your Class Link Here")
-elif (d==2 and t==11):
-    speak("Its 11'o Clock")
-    webbrowser.open("Your Class Link Here")
-elif (d==2 and t==12):
-    speak("Its 12'o clock")
-    webbrowser.open("Your Class Link Here")
-elif (d==2  and t==13):
+    webbrowser.open("https://zoom.us/j/97479787188?pwd=RnN0RkJhVW5qVmlrWTdJdmRpUVFaZz09")
+ elif (d==3 and t==13):
     speak("its 1'o clock ")
     webbrowser.open("Your Class Link Here")
 
-elif(d==4and t==9) :
+ elif (d==5 and t==9) : 
     speak("Its 9'o clock")
-    webbrowser.open("Your Class Link Here")
-elif(d==4 and t==10): 
+    webbrowser.open("https://zoom.us/j/94051714670?pwd=STU5U2lrdFBWVGJhZG1iN0FOQTB2dz09")
+ elif (d==5 and t==10): 
     speak("Its 10'o Clock")
     webbrowser.open("Your Class Link Here")
-elif (d==4 and t==11):
+ elif (d==5 and t==11):
     speak("Its 11'o Clock")
     webbrowser.open("Your Class Link Here")
-elif (d==4 and t==12):
+ elif (d==5 and t==12):
     speak("Its 12'o clock")
-    webbrowser.open("Your Class Link Here")
-elif (d==4  and t==13):
-    speak("its 1'o clock ")
-    webbrowser.open("Your Class Link Here")
-
-elif(d==6and t==9) :
-    speak("Its 9'o clock")
-    webbrowser.open("Your Class Link Here")
-elif(d==6 and t==10): 
-    speak("Its 10'o Clock")
-    webbrowser.open("Your Class Link Here")
-elif (d==6 and t==11):
-    speak("Its 11'o Clock")
-    webbrowser.open("Your Class Link Here")
-elif (d==6 and t==12):
-    speak("Its 12'o clock")
-    webbrowser.open("Your Class Link Here")
-elif (d==6  and t==13):
+    webbrowser.open("https://zoom.us/j/97479787188?pwd=RnN0RkJhVW5qVmlrWTdJdmRpUVFaZz09")
+ elif (d==5 and t==13):
     speak("its 1'o clock ")
     webbrowser.open("Your Class Link Here")
     
-else:
+ elif(d==2 and t==9) :
+    speak("Its 9'o clock")
+    webbrowser.open("Your Class Link Here")
+ elif(d==2 and t==10): 
+    speak("Its 10'o Clock")
+    webbrowser.open("Your Class Link Here")
+ elif (d==2 and t==11):
+    speak("Its 11'o Clock")
+    webbrowser.open("Your Class Link Here")
+ elif (d==2 and t==12):
+    speak("Its 12'o clock")
+    webbrowser.open("https://zoom.us/j/97479787188?pwd=RnN0RkJhVW5qVmlrWTdJdmRpUVFaZz09")
+ elif (d==2  and t==13):
+    speak("its 1'o clock ")
+    webbrowser.open("Your Class Link Here")
+
+ elif(d==4 and t==9) :
+    speak("Its 9'o clock")
+    webbrowser.open("Your Class Link Here")
+ elif(d==4 and t==10): 
+    speak("Its 10'o Clock")
+    webbrowser.open("Your Class Link Here")
+ elif (d==4 and t==11):
+    speak("Its 11'o Clock")
+    webbrowser.open("Your Class Link Here")
+ elif (d==4 and t==12):
+    speak("Its 12'o clock")
+    webbrowser.open("https://zoom.us/j/97479787188?pwd=RnN0RkJhVW5qVmlrWTdJdmRpUVFaZz09")
+ elif (d==4  and t==13):
+    speak("its 1'o clock ")
+    webbrowser.open("Your Class Link Here")
+
+ elif(d==6 and t==9) :
+    speak("Its 9'o clock")
+    webbrowser.open("Your Class Link Here")
+ elif(d==6 and t==10): 
+    speak("Its 10'o Clock")
+    webbrowser.open("Your Class Link Here")
+ elif (d==6 and t==11):
+    speak("Its 11'o Clock")
+    webbrowser.open("Your Class Link Here")
+ elif (d==6 and t==12):
+    speak("Its 12'o clock")
+    webbrowser.open("https://zoom.us/j/97479787188?pwd=RnN0RkJhVW5qVmlrWTdJdmRpUVFaZz09")
+ elif (d==6  and t==13):
+    speak("its 1'o clock ")
+    webbrowser.open("Your Class Link Here")
+    
+ else:
     speak("You Dont Have Any Class Now")
+    print(a)
+a = 1
+while (a<=6): #as i have 6 periods continously 
+    bot()
+    time.sleep(3600) #because one class is 50 mins and 10 mins break total 60 mins interval between two classes in seconds its 3600
+    a = a+1
 
 
